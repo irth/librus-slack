@@ -1,3 +1,6 @@
 source 'https://rubygems.org'
 gem 'slack-ruby-client'
 gem 'celluloid-io'
+gem 'nokogiri'
+gem 'curb'
+gem 'reverse_markdown'

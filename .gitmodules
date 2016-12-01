@@ -1,0 +1,3 @@
+[submodule "librus"]
+	path = librus
+	url = https://github.com/irth/librus
